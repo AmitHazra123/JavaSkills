@@ -1,0 +1,12 @@
+
+public class MyClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Bank abc = new Bank_ABC();
+		Bank_ABC aBc = new Bank_ABC();
+		System.out.println(aBc.getInterestRate());
+		abc.display();
+	}
+
+}

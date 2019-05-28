@@ -1,0 +1,9 @@
+
+public class Cube {
+	int length;
+	int breadth;
+	int height;
+	public int getcubeVolume() {
+		return(length * breadth * height);
+	}
+}

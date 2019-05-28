@@ -1,0 +1,9 @@
+
+abstract public class Bank {
+	int getInterestRate() {
+		return 0;
+	}
+	void display() {
+		System.out.println("Hello World!!!");
+	}
+}

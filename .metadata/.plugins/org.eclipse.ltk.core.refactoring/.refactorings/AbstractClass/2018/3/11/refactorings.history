@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;InterfaceConcept/src&apos;&#x0D;&#x0A;- Original project: &apos;AbstractClass&apos;&#x0D;&#x0A;- Destination element: &apos;InterfaceConcept/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     MyClass.java&#x0D;&#x0A;     Bank_ABC.java&#x0D;&#x0A;     Bank.java&#x0D;&#x0A;     Bank_DEF.java&#x0D;&#x0A;     Bank_GHI.java" description="Copy compilation units" destination="=InterfaceConcept/src" element1="/src&lt;{MyClass.java" element2="/src&lt;{Bank_ABC.java" element3="/src&lt;{Bank.java" element4="/src&lt;{Bank_DEF.java" element5="/src&lt;{Bank_GHI.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1520957467174" units="5" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+package lession2;
+
+public class Rectangle extends Polygon{
+	public double area() {
+		var = 20;
+		return(height * width);
+	}
+}

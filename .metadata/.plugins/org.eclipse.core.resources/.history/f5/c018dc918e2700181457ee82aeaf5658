@@ -1,0 +1,5 @@
+package MultipleParameter;
+
+public class Colour<T1, T2, T3> {
+
+}

@@ -1,0 +1,17 @@
+package Intro;
+
+public class Guest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Glass<Juice> g = new Glass<Juice>();
+		Juice juice = new Juice();
+		g.liquid = juice;
+		Juice j = g.liquid;
+		
+		Glass<Water> waterGlass = new Glass<Water>();
+		waterGlass.liquid = new Water();
+		Water water = waterGlass.liquid; 
+	}
+
+}

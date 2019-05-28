@@ -1,0 +1,6 @@
+
+abstract public class Bank implements BankInterface {
+	void display() {
+		System.out.println("Hello World!!!");
+	}
+}

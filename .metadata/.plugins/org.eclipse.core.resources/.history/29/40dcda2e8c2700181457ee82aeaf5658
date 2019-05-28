@@ -1,0 +1,11 @@
+package Instantiating;
+import Intro.*;
+public class Instantiation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Glass<Red> red = new Glass<Red>();
+		Glass<Green> greeb = new Glass<>();
+	}
+
+}
